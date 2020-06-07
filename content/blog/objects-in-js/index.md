@@ -1,6 +1,6 @@
 ---
 title: OBJECTS in js
-date: "2020-05-21T22:12:03.284Z"
+date: "2020-06-07T22:12:03.284Z"
 description: "This blog will give a clear understanding of objects in js"
 ---
 
